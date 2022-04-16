@@ -1,12 +1,17 @@
 ![logo](_media/logo.png)
 
-# 小傅哥
+# 三文鱼
 
-## 教程序员快速搭建博客
+## 2022开始了博客记录
 
-- 本仓库以基于 docsify 构建的所见即所得博客，程序员👨🏻‍💻伙伴可以通过克隆仓库，配置基础的信息就可以拥有一个这样的博客了！
-    
-[![stars](https://badgen.net/github/stars/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io) [![forks](https://badgen.net/github/forks/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io) 
+- 焦虑是
+> *焦虑是另外一个陷阱。它是自我的反面。如果你确知做什么事都做不对，那么你就会很害怕。往往就是这个因素让你迟迟不敢动手，而不是懒惰
+> 。这个陷阱来自于急于求成，往往造成各种错误，你会去修理不需要修理的东西，去担忧假想中的困扰，然后做出各种荒谬的结论。你会因为自己的紧张而认定机器出了各种问题，就更验证了你期初对自己的低估，因而产生了更多的错误。如此恶性循环下去，就会不断给自己各种打击。*
+ 
 
-[GitHub](<https://github.com/fuzhengwei/fuzhengwei.github.io>)
-[开始阅读](README.md)
+
+
+
+> *要想打破这种恶性循环，我想你应该把自己的焦虑写下来，然后参考各种书报杂志。因为你有焦虑动力，所以会很努力地研究。你越研究就会越平静。你要记得，你追求的是内心的平静，而不是仅仅是吧机器修好而已*
+
+> *摘自《禅与摩托车维修艺术》*
